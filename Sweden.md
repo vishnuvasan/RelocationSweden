@@ -1,0 +1,50 @@
+# RelocationSweden
+All Important Information on Relocation to Swedeni
+
+
+- First Things First
+- Immigration
+- Search For Jobs
+- Get Employment Contract
+- Get a Signed Employment Contract Either a Digitally Signed Document or a Scanned Physical Document
+- Trigger the Application with Migrationseverket.se for the Residence Permit Application(Valid for 2 Years)
+- Apply For Work Permit - U would Need Passport,Signed Work Contract,Marriage Certificate(In Case Married), Police Clearance Certificate From Your External Affairs Ministry(Special)
+- Wait for the Trigger from the MigrationsVerket (Minimum 10 Weeks to Maximum 25 Weeks)
+- Once You have the Approval From MigrationsVerket then You have to furnish your Biometrics in the Consulate
+- As soon as you get approval Please book for an Appointment @ the Nearest Swedish Consulate to furnish the BioMetrics. Note : All Consulates do not have this facility. Please check before booking an appointment and clarify with them before planning your travel
+- Once you have the appointment then please visit the consulate on Time. Swedes are crazy about keeping up Time. So Please be on Time.
+- U would need your Passport and the Appointment Printout to enter the Consulate.
+- Visit the Respective Counter @ ur Embassy. Provide Finger Prints, IRIS Scan, Digital Signature, Fill the Envelopes with ur Address for the Residence Permit Card to be posted and then Pay the Fees Usually By Card and then Collect the Acknowledgement
+- Now u can leave home happily. It takes 2-3 Weeks for ur Residence Permit Card to Reach ur Postal Address
+- Once u Received ur Residence Permit Card, Now U can enter sweden. Next Step is Booking Flight Tickets, Pack Ur Minimal Clothes(if u r from a tropical country then dont buy winter clothee @ home. better to buy it in sweden cos the climate is really harsh. Trust me. Clothese wont last long. But choice is urs. Even Winter Gear is on Another Level. So better to buy it in any part of scandinavia. Scandinavia has a philosophy of Buy Once and Live Forever for almost everything. So Many Things are of Very High Quality. But Choice is urs)
+- With a Swedish Residence Permit, U can happily Enter Scandinavia even for the 1st Time  - Either to Denmark, Norway, Finland or Sweden. Even during the 1st Entry, Immigration is relatively laid back. As a Matter of Fact, Many of My friends entered via Denmark and some Via Finland. But there were no Immigration issues
+- Dont convert too much currency to Swedish Kronor (SEK) and come here. Sweden is a Digital Country and everything is digital here from Bus Tickets to Banks. so just load ur money in the Forex or International Card and Come here
+- Ok. Sweden is not brimming with cities . It has lot of towns here and there. so bring some basic food and eatables when u come along to survive in the initial days.
+- Sweden is very vegan Friendly. In fact 40% swedes are vegans. so if u r a vegetarian u get to taste lot of soya meat.
+- Ok. Now U Entered Sweden, Buy a SIM Card. SIM Cards are placed in all major airports for Free. They will just be placed then and there. U may not find people standing next to it. Dont worry. Welcome to Sweden. Trust is very very high in this society. So Believe all people are Good. So U can pick one and Just Go.
+- U may be surprised to see taxi drivers showing u swiping machines. But thats how sweden work.
+- Now Freshen up and take rest.
+- 1st Step is crossed v Have miles to go.
+- Next Steps are
+- To Visit SkatteVerket.se for Applying a Personal Number
+- It Takes 8 Weeks to 30 Weeks based on Case to Case. So as soon as u arrive do this
+- Only after receiving ur Personal Number u can apply for a Bank Account. To Open a Bank Account u need an Employment Contract. But to check on how to create for dependents
+- Only u receive ur personal number. next thing is immediately apply for a swedish national id card with skatteverket.se
+- book an appointment in the nearest skatterverket and furnish ur details
+- it may take 4 to 6 weeks for this id card to reach u
+- once u have the personal number and a swedish id card u can apply for a bank account in any account. without these also u can open bank account in seb but it is really hard and case to case basis
+- once u have the bank account, u will get bank ID. this is ur digital identity in sweden irrespective of the bank u have account in. with this life is so easy here.
+- now u can open a swish account which is basically a peer to peer payment application like any other app in other countries but swish is integrated to 80% of swedish accounts. so it is really nationally accpeted
+- and for even applying for apartments u need personal number cos without that u cannot apply
+- once u have ur personal number, swedish id card, bank account, bank id then u can live almost like a swede. 
+- next steps to have ur ForsakringKassan account basically insurance account and verifiying ur details
+- Check ur Collectum basically pension account if the amount is rightly getting credited
+- Enroll in the Nearest Vard Centralen basically hospital network. Without this, u cannot visit any hospital.
+- Only u have the Vard Centralen associated then u can visit them.
+- Next Thing is to have ur skatteverket app so that in case if u move from one place to other address u need to inform them. In sweden, Tax is ALSO based on the place u live and not solely on ur salary range. so u need to tell them if u really want to reap the benefits. 
+- In sweden, wellness things are covered by the companies like gyms,spas and stuff. so u can almost completely reimburse.
+- Now if u have special garbage things like wood and big carton boxes, car tires, oils to be trashed, u cannot dispose it. Their waste management is @ another level due to sustainability conscious. u need nsr.se card. u need to visit ur nearset nsr.se place to ge the same
+- Next join an SFI basically swedish association for foreigners. They teach swedish for Free. u can join and Learn 
+- As sweden is totally digital, u will need so many accounts and all r linked with Bank ID. So never forget the bank id. it is so complicated to reactivate it as it is completely linked in to their financial system. so beter remember it
+- From here on , what u want to do, enrol and do is up to u.
+- Last But Not Least, Apply for Shopping Cards in ICA, Coop, Willys, IKEA. These membership cards will help u save money in the long run even though u may not see real benefits in a short term. 
