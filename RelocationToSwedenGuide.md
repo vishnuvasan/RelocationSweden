@@ -7,7 +7,7 @@ sequenceDiagram
 
 	participant You
 	participant Employers
-	participant Airways
+	participant Airways & Travel Insurance
 	participant MigrationsVerket
 	participant Consulate
 	participant SkatteVerket
@@ -56,7 +56,7 @@ sequenceDiagram
 
 	You->>SkatteVerket: Apply for a Swedish Personal Number. Without this, You cannot even Open a Bank Account in Sweden(Except SEB after Multiple Failed Attempts)
 	SkatteVerket->>You: Application Received and Wait for 6 to 18 Weeks
-	SkatterVerket->>You: Swedish Personal Number Granted
+	SkatteVerket->>You: Swedish Personal Number Granted
 	
 	You->>SkatteVerket: Book Appointment for Swedish ID Card. De Facto Authentication for European Standards
 	You->>SkatteVerket: Visit Skatteverket, Furnish Your Details.
