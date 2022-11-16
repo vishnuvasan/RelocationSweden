@@ -7,11 +7,16 @@ sequenceDiagram
 
 	participant You
 	participant Employers
-	participant Airways & Travel Insurance
 	participant MigrationsVerket
+	participant Airways & Travel Insurance
+	participant Accommodation
 	participant Consulate
 	participant SkatteVerket
 	participant Bank
+	participant Forsakringkassan
+	participant Centrum
+	participant VardCentralen
+	participant SuperMarket
 	participant Sweden
 
 	You->>Employers: Job Applications
@@ -87,5 +92,5 @@ sequenceDiagram
 	You->>You: Buy Good Winter Clothes. If not Buy in Sweden. Clothes are usually Expensive because of the Logistics
 	
 	Sweden->>You: We Love you for Choosing To Work with us. Enjoy the Surreal Nature!
-	You->>You: Love You. Thanks :)
+	You->>Sweden: Love You Sverige. Tack Se Mycket :)
 
