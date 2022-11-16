@@ -78,7 +78,7 @@ sequenceDiagram
 	You->>Centrum: Open Pension Account and Check Your Retirals Credited.
 	You->>VardCentralen: Register for the Nearest Hospital and make sure you are enrolled. If not you may not be able to visit the Hospital
 
-	You->>SuperMarket: Open SuperMarket Accounts with Your Personal Number and Swedish ID Card for Offers
+	You->>SuperMarket: Open SuperMarket Accounts in ICA,Coop,LidL,Willys,ALDO,IKEA with Your Personal Number and Swedish ID Card if you prefer some Offers
 	You->>Accommodation: Open Account in homeq.se or similar regional pages for getting First Hand Apartments in the Long Run
 
 	Sweden->>You: Welcome to Sweden. We are some of the Best English Speakers in the World
