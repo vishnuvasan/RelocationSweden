@@ -39,6 +39,18 @@ sequenceDiagram
 	You->>You: Sweden is a Digital Nation. All Payments in Cards Even Groceries. No Cash Required. Dont Change in Forex
 	You->>You: Pack Your Bags. Brace Yourself for a Beautiful Journey. Board the Airline. You are up for one Hell of a Ride
 
+	You->>Employers: Goto Your Office 1st Day, Meet and Greet
+	You->>You: Sweden is a Highly Introverted Country. So Better Know Your Manners.
+
+	You->>SkatteVerket: Apply for a Swedish Personal Number. Without this, You cannot even Open a Bank Account in Sweden(Except SEB after Multiple Failed Attempts)
+	SkatteVerket->>You: Application Received and Wait for 6 to 18 Weeks
+	SkatterVerket->>You: Swedish Personal Number Granted
+	You->>SkatteVerket: Book Appointment for Swedish ID Card. De Facto Authentication for European Standards
+	You->>SkatteVerket: Visit Skatteverket, Furnish Your Details.
+	SkatteVerket->>You: Application Received. Wait for 4 to 6 Weeks
+	You->>You: Swedish ID Card Received. Hurray! You are a Swede Now
+	You->>Bank: Book an Appointment for Opening a Bank Account in Swedbank or Handelsbanken or SEB.
+
 	participant Airways
 	participant MigrationsVerket
 	participant Consulate
