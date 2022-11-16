@@ -31,8 +31,7 @@ sequenceDiagram
 	You->>Employers: Inform Employer abour Residence Permit Card. Decied Your Probable Start Date and Get Employer Consensus
 	Employers->>You: Consensus Granted. You can Start on Some Specific Date
 
-	You->>Airways: Book Tickets
-	You->>TravelInsurance: Buy Travel Insurance
+	You->>Airways & Travel Insurance: Book Tickets and Travel Insurance
 	You->>Accommodation: Find Accommodation and start as possible. Check Blocket.se, Qasa.Se, AirBnb.se or Check with Employer
 
 	participant Airways
