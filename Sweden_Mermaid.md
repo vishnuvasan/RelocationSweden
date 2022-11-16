@@ -32,7 +32,12 @@ sequenceDiagram
 	Employers->>You: Consensus Granted. You can Start on Some Specific Date
 
 	You->>Airways & Travel Insurance: Book Tickets and Travel Insurance
-	You->>Accommodation: Find Accommodation and start as possible. Check Blocket.se, Qasa.Se, AirBnb.se or Check with Employer
+	You->>Accommodation: Find Accommodation and start as soon as possible. Check Blocket.se, Qasa.Se,Facebook Market,AirBnb or Check with Employer
+	You->>Accommodation: Request Multiple Stakeholders based on your budget, Pay and Confirm. 
+	Accommodation->>You: Confirmation and Digital Code/Key. Sweden is Almost a Digital Country
+
+	You->>You: Sweden is a Digital Nation. All Payments in Cards Even Groceries. No Cash Required. Dont Change in Forex
+	You->>You: Pack Your Bags. Brace Yourself for a Beautiful Journey. Board the Airline. You are up for one Hell of a Ride
 
 	participant Airways
 	participant MigrationsVerket
