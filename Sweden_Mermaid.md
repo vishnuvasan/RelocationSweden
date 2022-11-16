@@ -26,8 +26,16 @@ sequenceDiagram
 	You->>Consulate: Visit Consulate with your Spouse and Children and Furnish BioMetrics
 	Consulate->>You: Process Complete. Residence Permit Card will be Mailed in next 4 to 6 Weeks
 
+	Consultate->>You: Residence Permit Mailed.
+	You->>You: Residence Permit Received. Hurray! :)
+	You->>Employers: Inform Employer abour Residence Permit Card. Decied Your Probable Start Date and Get Employer Consensus
+	Employers->>You: Consensus Granted. You can Start on Some Specific Date
+
+	You->>Airways: Book Tickets
+	You->>TravelInsurance: Buy Travel Insurance
+	You->>Accommodation: Find Accommodation and start as possible. Check Blocket.se, Qasa.Se, AirBnb.se or Check with Employer
+
+	participant Airways
 	participant MigrationsVerket
-	
 	participant Consulate
-	
 	participant SkatteVerket
